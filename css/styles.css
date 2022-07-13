@@ -358,6 +358,14 @@ p {
   color: var(--accent-text-color);
 }
 
+.address-item {
+  margin-bottom: 9px;
+}
+
+.address-item:last-child {
+  margin-bottom: 0;
+}
+
 /*Portfolio*/
 .portfolio-menu {
   display: flex;
